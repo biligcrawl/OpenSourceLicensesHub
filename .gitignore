@@ -1,1 +1,8 @@
 /.idea/*
+.idea/*
+.idea/sonarlint/*
+.idea/sonarlint/issuestore/*
+
+*.iml
+
+*.xml
