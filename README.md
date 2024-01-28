@@ -102,7 +102,6 @@ cd OpenSourceLicensesHub
 
 ## Documentations
 
-- [LICENSE](LICENSE)
 - [How to Contribute](CONTRIBUTING.md)
 - [Turkce(Turkish) Readme](README_TR.md)
 
@@ -117,7 +116,6 @@ cd OpenSourceLicensesHub
 - [LICENSE](LICENSE)
 
 ## Links
-- - [Bunyamin Ergen](https://www.linkedin.com/in/bunyaminergen/)
 - [Discord](https://discord.com/invite/stMFSKa7)
 
 
@@ -135,7 +133,7 @@ cd OpenSourceLicensesHub
 
 ``` text
 @software{Bilig_Crawl,
-author = {Ergen, Jerry},
+author = {Ergen, Someone},
 doi = {10.5281/zenodo.1234},
 month = {11},
 title = {{Bilig}},
