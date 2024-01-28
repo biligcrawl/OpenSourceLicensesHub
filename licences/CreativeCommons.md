@@ -12,8 +12,8 @@
 
 `CC BY-NC-ND`: En kısıtlayıcı lisans türüdür, eserinizi değiştirmeden ve ticari olmayan amaçlarla kullanılmasına izin verir.
 
-https://creativecommons.org
-https://creativecommons.org.tr/
-https://creativecommons.org.tr/lisanslar/
-https://creativecommons.org/share-your-work/platform/
-https://chooser-beta.creativecommons.org/?lang=tr
+- https://creativecommons.org
+- https://creativecommons.org.tr/
+- https://creativecommons.org.tr/lisanslar/
+- https://creativecommons.org/share-your-work/platform/
+- https://chooser-beta.creativecommons.org/?lang=tr
