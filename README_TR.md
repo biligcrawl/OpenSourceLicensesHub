@@ -4,6 +4,7 @@
 ## İçindekiler (Table of Contents)
 - "Table of Contents" (İçindekiler) bölümü icin tiklanabilir basliklar oluşturabilirsiniz. Bu bölüm, kullanıcıların belirli konulara hızlı bir şekilde erişmesini sağlar.
 
+
 ## Gereksinimler (Prerequisites)
 - Projeyi çalıştırmak için gerekli olan yazılımlar, kütüphaneler veya başka şartlar nelerdir, belirtin.
 
